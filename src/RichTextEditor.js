@@ -36,7 +36,7 @@ const RichTextEditor = () => {
 
     // 模拟保存
     const handleSave = () => {
-        console.log("保存的内容：", content);
+        console.log("美食大战老鼠，保存的内容：", content);
         alert("内容已保存！");
     };
 
