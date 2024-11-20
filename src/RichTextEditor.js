@@ -13,6 +13,7 @@ const toolbarContainerMy = [
     ["blockquote"],
     [{ list: "ordered" }, { list: "bullet" }],
     ["image", "clean"], // 添加图片上传按钮
+    //美食大战老鼠
 ];
 
 const RichTextEditor = () => {
